@@ -5,8 +5,8 @@
 **_Available on Telegram as [@ScarlettXRobot](https://t.me/ScarlettXRobo)_**
 
 <p align="center">
-<a href="https://github.com/CodedAlchemist/ScarletXRobot/stargazers"><img src="https://img.shields.io/github/stars/CodedAlchemist/ScarletXRobott?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/CodedAlchemist/ScarletXRobott/network/members"> <img src="https://img.shields.io/github/forks/CodedAlchemist/ScarletXRobot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/CodedAlchemist/ScarletXRobot/stargazers"><img src="https://img.shields.io/github/stars/CodedAlchemist/ScarletXRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
+<a href="https://github.com/CodedAlchemist/ScarletXRobot/network/members"> <img src="https://img.shields.io/github/forks/CodedAlchemist/ScarletXRobot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
 <a href="https://github.com/CodedAlchemist/ScarletXRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
 </p>
